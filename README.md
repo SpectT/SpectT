@@ -1,4 +1,4 @@
-# Dmytro Prykhodko
+# Dmytro
 
 **Systems & AI Automation Engineer** specializing in agentic workflows, Model Context Protocol (MCP) integrations, and production full-stack automation.
 
